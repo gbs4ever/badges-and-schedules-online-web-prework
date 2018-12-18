@@ -20,6 +20,5 @@ def printer(attendees)
 
 
   #[ "Hello, #{item}! You'll be assigned to room#{index}!"]}
-  #room_assignments
->>>>>>> d76afd3ae8169b7d95d88e072f5e9dca86c162b0
+
 end
